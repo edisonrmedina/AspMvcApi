@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.utilities\bin\Debug\net7.0\salesSystem.utilities.deps.json
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.utilities\bin\Debug\net7.0\salesSystem.utilities.dll
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.utilities\bin\Debug\net7.0\salesSystem.utilities.pdb
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.utilities\bin\Debug\net7.0\salesSystem.dto.dll
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.utilities\bin\Debug\net7.0\salesSystem.model.dll
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.utilities\bin\Debug\net7.0\salesSystem.dto.pdb
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.utilities\bin\Debug\net7.0\salesSystem.model.pdb
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.utilities\obj\Debug\net7.0\salesSystem.utilities.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.utilities\obj\Debug\net7.0\salesSystem.utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.utilities\obj\Debug\net7.0\salesSystem.utilities.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.utilities\obj\Debug\net7.0\salesSystem.utilities.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.utilities\obj\Debug\net7.0\salesSystem.utilities.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.utilities\obj\Debug\net7.0\salesSystem.utilities.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.utilities\obj\Debug\net7.0\salesSystem.utilities.dll
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.utilities\obj\Debug\net7.0\refint\salesSystem.utilities.dll
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.utilities\obj\Debug\net7.0\salesSystem.utilities.pdb
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.utilities\obj\Debug\net7.0\ref\salesSystem.utilities.dll

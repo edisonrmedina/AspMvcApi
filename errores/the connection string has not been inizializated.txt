@@ -1,0 +1,43 @@
+El visualizador encontró una excepción interna y debe cerrarse,
+
+Tipo original: system.InvalidoperationException
+Mensaje: The ConnectionString property has not been initialized.
+Seguimiento de la pila
+
+en Microsoft.Dsta.SalClientSalConnection.PermissionDemando
+
+en Microsoft.Data.alClient.salConnectionFactory PermissionDemand(DbConnection outerConnection)
+
+en Microsoft.Data.ProviderBase,DbConnectionintemnal.TIyO penconnectionintemal[DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource 1 retry, DbConnectionoptions
+useroptiona)
+
+en Microsoft.Data ProviderBase DbConnectionClosed.TyOpenConnection(DbConnection outerConnection, DbConnectionfactory connectionfactony, TaskCompletionSource1 retry, DbConnectionOptions
+useroptiona)
+
+en Microsoft.Data Sallient.SalConnection.TryOpenfTaskCompletionSource'1 ret, salConnectionOverrides overrides)
+
+en Microsoft.Data.SalClient.salConnection.OpenfsalConnectionOverrides overtides)
+
+en MicrosoftData.salClient.salConnection.Openf
+
+en Microsoft. EntityErameworkCore.Salserver-Storage,Intemal SqServerConnection-OpenDbConnection(Boolean errorsExpected)
+
+en Microsoft.EntityErameworkCore.storage.RelationalConnection.OpenintemnallBoolean errorsExpected)
+
+en Microsoft.EntityErameworkCore.storage.RelationalConnection.Open(Boolean errorsExpected)
+
+en MicrosoftEntilyFrameworkCore.storage RelationalCommand ExecuteReader[RelationalCommandParameterObject parameterObject]
+
+en Microsoft. EntityrameworkCore.Query.Intemal.SingleQueryingEnumerable 1.Enumerator IitializeReader[Enuimerator enumerator)
+
+en MicrosoftEntityFrameworkCore.Query.Intemnal.SingleQueryingEnumerable' .Enumerator.<>c.<MoveNext> b_21.0/DbContext _ Entimerator enuimerator)
+
+en Microsoft.EntityErameworkCore.SalServer-Storage,Internal.SqlServerExecutionStrategy.Execute[T State TResult(T State state, Furic3 operation, Func3 verifySucceeded)
+
+en Microsoft.EntityErameworkCore.Query.Intemnal.SingleQueryingEnumerable 1.Enumerator.MoveNext)
+
+en Microsoft. Visualstudio.Debugger IEnumerablevisualizer.EnumerableObjectHandier IniializeDataSource)
+
+en MicrosoftVisualstudio.Debugger,EnumerableVisualizer EnumerableVisualizerSourceTransferDatafObject obj, Stream fromVisualizer, Stream toVisualizer)
+
+en Microsoft.Visualstudio,Debuggervisualizers.Debuggeeside Impl.CIrCustomVisualizerDebuggeeHost.TransferDatafObject visualizedobject, Eytel uiSideData)

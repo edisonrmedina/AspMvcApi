@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.13" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\salesSystem.bll\salesSystem.bll.csproj" />
+    <ProjectReference Include="..\salesSystem.dto\salesSystem.dto.csproj" />
+    <ProjectReference Include="..\salesSystem.ioc\salesSystem.ioc.csproj" />
+  </ItemGroup>
+
+</Project>

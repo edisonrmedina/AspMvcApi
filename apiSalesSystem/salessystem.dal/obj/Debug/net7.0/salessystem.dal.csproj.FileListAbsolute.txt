@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salessystem.dal\bin\Debug\net7.0\salesSystem.dal.deps.json
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salessystem.dal\bin\Debug\net7.0\salesSystem.dal.dll
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salessystem.dal\bin\Debug\net7.0\salesSystem.dal.pdb
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salessystem.dal\bin\Debug\net7.0\salesSystem.model.dll
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salessystem.dal\bin\Debug\net7.0\salesSystem.model.pdb
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salessystem.dal\obj\Debug\net7.0\salesSystem.dal.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salessystem.dal\obj\Debug\net7.0\salesSystem.dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salessystem.dal\obj\Debug\net7.0\salesSystem.dal.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salessystem.dal\obj\Debug\net7.0\salesSystem.dal.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salessystem.dal\obj\Debug\net7.0\salesSystem.dal.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salessystem.dal\obj\Debug\net7.0\salesSystem.dal.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salessystem.dal\obj\Debug\net7.0\salesSystem.dal.dll
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salessystem.dal\obj\Debug\net7.0\refint\salesSystem.dal.dll
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salessystem.dal\obj\Debug\net7.0\salesSystem.dal.pdb
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salessystem.dal\obj\Debug\net7.0\ref\salesSystem.dal.dll

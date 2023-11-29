@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.dto\bin\Debug\net7.0\salesSystem.dto.deps.json
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.dto\bin\Debug\net7.0\salesSystem.dto.dll
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.dto\bin\Debug\net7.0\salesSystem.dto.pdb
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.dto\obj\Debug\net7.0\salesSystem.dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.dto\obj\Debug\net7.0\salesSystem.dto.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.dto\obj\Debug\net7.0\salesSystem.dto.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.dto\obj\Debug\net7.0\salesSystem.dto.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.dto\obj\Debug\net7.0\salesSystem.dto.dll
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.dto\obj\Debug\net7.0\refint\salesSystem.dto.dll
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.dto\obj\Debug\net7.0\salesSystem.dto.pdb
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.dto\obj\Debug\net7.0\ref\salesSystem.dto.dll

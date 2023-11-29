@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.model\bin\Debug\net7.0\salesSystem.model.deps.json
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.model\bin\Debug\net7.0\salesSystem.model.runtimeconfig.json
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.model\bin\Debug\net7.0\salesSystem.model.dll
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.model\bin\Debug\net7.0\salesSystem.model.pdb
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.model\obj\Debug\net7.0\salesSystem.model.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.model\obj\Debug\net7.0\salesSystem.model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.model\obj\Debug\net7.0\salesSystem.model.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.model\obj\Debug\net7.0\salesSystem.model.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.model\obj\Debug\net7.0\salesSystem.model.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.model\obj\Debug\net7.0\salesSystem.model.dll
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.model\obj\Debug\net7.0\refint\salesSystem.model.dll
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.model\obj\Debug\net7.0\salesSystem.model.pdb
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.model\obj\Debug\net7.0\salesSystem.model.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Web\Angular\salesSystemFront\apiSalesSystem\salesSystem.model\obj\Debug\net7.0\ref\salesSystem.model.dll
